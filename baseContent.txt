@@ -3,6 +3,7 @@ second line
 third line
 {dev block
 first content
+second content
 }
 {
 feature-a
