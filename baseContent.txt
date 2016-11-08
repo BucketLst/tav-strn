@@ -1,8 +1,11 @@
 first line
 second line
 third line
-{dev block}
+{dev block
+first content
+}
 {
 feature-a
 }
+
 
